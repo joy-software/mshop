@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>FR - Blog ecommerce par PrestaShop</title>
+	<atom:link href="http://www.prestashop.com/blog/fr/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.prestashop.com/blog/fr</link>
+	<description></description>
+	<lastBuildDate>Wed, 18 Jan 2017 08:00:03 +0000</lastBuildDate>
+	<language>fr-FR</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.1</generator>
+	<item>
+		<title>UX Design : les erreurs les plus fréquentes des designers et leurs solutions</title>
+		<link>https://www.prestashop.com/blog/fr/ux-design-les-erreurs-les-frequentes-designers-leurs-solutions/</link>
+		<comments>https://www.prestashop.com/blog/fr/ux-design-les-erreurs-les-frequentes-designers-leurs-solutions/#comments</comments>
+		<pubDate>Wed, 18 Jan 2017 08:00:03 +0000</pubDate>
+		<dc:creator><![CDATA[Eva Lacalle]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=21041</guid>
+		<description><![CDATA[<p>Nous donnons déjà des conseils pour améliorer l&#8217;expérience utilisateur sur le blog de PrestaShop, notamment dans cet article, qui explique comment augmenter les conversions. Aujourd&#8217;hui, nous allons de nouveau nous intéresser à l&#8217;amélioration de l&#8217;expérience utilisateur, mais du point de vue du design, car certaines erreurs courantes peuvent nuire à la qualité de votre boutique [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/ux-design-les-erreurs-les-frequentes-designers-leurs-solutions/">UX Design : les erreurs les plus fréquentes des designers et leurs solutions</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Nous donnons déjà des conseils pour <strong>améliorer l&rsquo;expérience utilisateur</strong> sur le blog de PrestaShop, notamment dans <a href="https://www.prestashop.com/blog/fr/comment-ameliorer-lexperience-client-booster-les-conversions/">cet article, qui explique comment augmenter les conversions.</a> Aujourd&rsquo;hui, nous allons de nouveau nous intéresser à l&rsquo;amélioration de l&rsquo;expérience utilisateur, mais du point de vue du design, car certaines erreurs courantes peuvent nuire à la qualité de votre boutique en ligne.<span id="more-21041"></span></p>
+<p>Pour créer une bonne expérience utilisateur, il faut tenir compte de tous les<strong> facteurs qui interagissent avec les utilisateurs de votre site Web</strong>. L&rsquo;expérience utilisateur sera influencée par le <strong>design</strong> (facilité d&rsquo;utilisation, accessibilité, design graphique…), mais aussi par des <strong>aspects psychologiques</strong>, comme les émotions que suscitent votre marque et vos produits.</p>
+<p>Aujourd&rsquo;hui, nous allons nous pencher sur les erreurs de design courantes que nous pouvons rencontrer dans tout type de projet. Que l&rsquo;erreur apparaisse sur l&rsquo;interface lors de la demande de données ou lors de la présentation des différentes options, le design est l&rsquo;un des éléments clés pour obtenir un site Web élégant et facile d&rsquo;utilisation.</p>
+<p>Plus concrètement, nous allons voir <strong>les erreurs les plus fréquentes associées à la création des formulaires</strong>. Les formulaires sont des éléments essentiels de la vente en ligne et c&rsquo;est au moment de les remplir que l&rsquo;on compte le plus d&rsquo;abandons de paniers. Il y a bien sûr des exceptions aux conseils que nous vous donnons ici, mais ce petit guide vous aidera à améliorer le design de votre boutique en ligne.</p>
+<h2 style="color:#251b5b">Affichez la liste dans une colonne</h2>
+<p>Pour faciliter la saisie des données, il est préférable que la liste s&rsquo;affiche dans <strong>une seule colonne</strong>, car nous lisons généralement ce type de questionnaire de haut en bas.<br />
+<img src="https://www.prestashop.com/blog/fr/files/2017/01/1.jpg" alt="1" width="1000" height="402" class="alignnone size-full wp-image-21042" /><br />
+Autre possibilité : <strong>regrouper les données en fonction de leurs caractéristiques de base</strong> et les présenter séparément, c&rsquo;est-à-dire créer une colonne pour les données personnelles, une autre pour les méthodes de paiement et une dernière pour la livraison. Toutefois, pour une meilleure interaction avec l&rsquo;utilisateur, les données que vous demandez pour chacune de ces caractéristiques doivent figurer dans une seule colonne.</p>
+<h2 style="color:#251b5b">Alignez les étiquettes dans la partie supérieure</h2>
+<p>Les utilisateurs remplissent plus vite les formulaires lorsque <strong>les étiquettes sont affichées dans la partie supérieure</strong>, et non sur la gauche. Toutefois, il y a une exception à cette règle : si vous disposez d&rsquo;une grande liste de champs à remplir avec différentes options, mieux vaut placer les étiquettes sur la gauche, car cela réduit la hauteur totale du formulaire tout en facilitant la lecture : les étiquettes sont mises en avant, pour une utilisation optimale.<br />
+<img src="https://www.prestashop.com/blog/fr/files/2017/01/2.jpg" alt="2" width="1000" height="429" class="alignnone size-full wp-image-21043" /></p>
+<h2 style="color:#251b5b">Regroupez les étiquettes et leur champ de saisie</h2>
+<p>Si vous laissez exactement la même distance entre les options et leurs étiquettes, l&rsquo;utilisateur risque d&rsquo;être dérouté. <strong>Regroupez les étiquettes</strong> pour que l&rsquo;utilisateur sache immédiatement quelles informations il doit saisir.</p>
+<p>C&rsquo;est essentiel si vous avez de nombreux champs, car l&rsquo;utilisateur risque d&rsquo;oublier à quel champ appartient telle ou telle étiquette.<br />
+<img src="https://www.prestashop.com/blog/fr/files/2017/01/3.jpg" alt="3" width="1000" height="429" class="alignnone size-full wp-image-21044" /></p>
+<h2 style="color:#251b5b">N&rsquo;utilisez pas de majuscules</h2>
+<p>Vous devez <strong>bannir les majuscules</strong>, car, dans le monde numérique, les majuscules signifient que l&rsquo;on crie. Or, aucun client n&rsquo;aime qu&rsquo;on lui crie dessus. Les majuscules sont également plus difficiles à lire. Ceci dit, à part pour des questions de style (le style devant être identique sur toute la page Web), n&rsquo;écrivez pas non plus tout en minuscule.<br />
+<img src="https://www.prestashop.com/blog/fr/files/2017/01/4.jpg" alt="4" width="1000" height="429" class="alignnone size-full wp-image-21045" /></p>
+<h2 style="color:#251b5b">N&rsquo;utilisez pas les champs de saisie pour vos étiquettes</h2>
+<p>Bien que cette méthode ait été très à la mode il y a quelque temps et qu&rsquo;elle économise de l&rsquo;espace visuellement (motif pour lequel certains designers l&rsquo;utilisent encore), elle <strong>génère des problèmes d&rsquo;utilisation</strong>.<br />
+<img src="https://www.prestashop.com/blog/fr/files/2017/01/5.jpg" alt="5" width="1000" height="429" class="alignnone size-full wp-image-21046" /></p>
+<p>Une fois le curseur placé dans le champ, l&rsquo;étiquette d&rsquo;information disparaît et l&rsquo;utilisateur risque d&rsquo;oublier ce qu&rsquo;il devait écrire dans le champ. Il ne peut pas non plus vérifier que toutes les données sont correctes avant d&rsquo;appuyer sur le bouton pour confirmer l&rsquo;achat ou lorsque le système détecte une erreur. En outre, les champs à remplir sont moins bien visibles en une seule fois.</p>
+<h2 style="color:#251b5b">Indiquez où se situe l&rsquo;erreur</h2>
+<p>Si, au moment de remplir les différents champs, l&rsquo;utilisateur a fait une erreur, <strong>indiquez-lui exactement où se situent cette erreur</strong> et, si possible, <strong>son motif</strong>. Plus votre formulaire contient de rubriques, plus ce point est important, car l&rsquo;utilisateur peut quitter le site s&rsquo;il ne trouve pas facilement l&rsquo;erreur. En indiquant où elle se situe, vous améliorerez l&rsquo;interaction avec l&rsquo;utilisateur.<br />
+<img src="https://www.prestashop.com/blog/fr/files/2017/01/6.jpg" alt="6" width="1000" height="362" class="alignnone size-full wp-image-21047" /></p>
+<h2 style="color:#251b5b">Ne masquez pas l&rsquo;aide de base</h2>
+<p>Il est parfois possible <strong>de proposer une aide de base à l&rsquo;utilisateur lorsqu&rsquo;il remplit le questionnaire</strong>. Si vous le pouvez, laissez-la à la vue de l&rsquo;utilisateur pour l&rsquo;aider à terminer le processus le plus vite possible.<br />
+<img src="https://www.prestashop.com/blog/fr/files/2017/01/7.jpg" alt="7" width="1000" height="362" class="alignnone size-full wp-image-21048" /></p>
+<p>Si vous masquez cette aide, il est possible que l&rsquo;utilisateur saisisse un mot de passe incorrect qui ne comprend pas assez de caractères : une erreur s&rsquo;affiche et l&rsquo;utilisateur revient en arrière pour trouver son erreur, place le curseur sur le point d&rsquo;interrogation, se rend compte qu&rsquo;il fallait saisir au moins 5 caractères et rentre un mot de passe valide. En rendant les explications visibles, vous simplifiez l&rsquo;expérience de l&rsquo;utilisateur.</p>
+<h2 style="color:#251b5b">Faites ressortir les boutons d&rsquo;action</h2>
+<p>Si vous proposez deux options, <strong>faites ressortir celle qui dirigera l&rsquo;utilisateur vers l&rsquo;action qui vous intéresse le plus</strong>. Pour ce faire, vous pouvez opter pour une taille plus grande ou une couleur voyante. L&rsquo;objectif final est de diriger l&rsquo;attention de l&rsquo;utilisateur. Si vous considérez que la deuxième option est pratiquement inutile, supprimez-la. Cela permet non seulement d&rsquo;améliorer l&rsquo;expérience de l&rsquo;utilisateur en lui indiquant l&rsquo;option la plus logique, mais aussi de faire ressortir les actions les plus avantageuses pour vous.<br />
+<img src="https://www.prestashop.com/blog/fr/files/2017/01/8.jpg" alt="8" width="1000" height="362" class="alignnone size-full wp-image-21049" /></p>
+<h2 style="color:#251b5b">Réfléchissez à tout ce qui est inutile</h2>
+<p>Il n&rsquo;est pas rare de demander des informations qui ne sont absolument pas nécessaires pour le processus d&rsquo;achat. Le client qui se retrouve face à un formulaire d&rsquo;achat interminable a tendance à abandonner le processus. L&rsquo;expérience d&rsquo;achat est tellement lente et ennuyeuse que cet utilisateur n&rsquo;achètera sans doute jamais rien dans votre boutique, même si le produit est bon.</p>
+<p>Réfléchissez aux données indispensables, à celles qui sont facultatives et à celles dont vous pouvez tout bonnement vous passer. Personne n&rsquo;a envie de passer des heures à saisir des données pour réaliser un achat. Vous devez donc <strong>faciliter au maximum ce processus</strong> et le rendre aussi agréable que possible pour améliorer l&rsquo;expérience utilisateur. Vous verrez la différence dans vos taux de conversion !</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/ux-design-les-erreurs-les-frequentes-designers-leurs-solutions/">UX Design : les erreurs les plus fréquentes des designers et leurs solutions</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/ux-design-les-erreurs-les-frequentes-designers-leurs-solutions/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>nailmatic : un projet PrestaShop alliant image de marque et e-commerce</title>
+		<link>https://www.prestashop.com/blog/fr/nailmatic-projet-prestashop-alliant-image-marque-e-commerce/</link>
+		<comments>https://www.prestashop.com/blog/fr/nailmatic-projet-prestashop-alliant-image-marque-e-commerce/#comments</comments>
+		<pubDate>Tue, 17 Jan 2017 09:09:51 +0000</pubDate>
+		<dc:creator><![CDATA[Les amis de Preston]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+		<category><![CDATA[Success Story]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=20807</guid>
+		<description><![CDATA[<p>Avec son esprit fonceur et créatif et ses idées de génie, nailmatic agite le monde du beauty business ! Distributeur automatique de vernis, coffrets vernis, ligne Kids avec des vernis à l’eau&#8230; la marque ose et inspire des looks colorés empreints de bonne humeur. Une identité forte que le site, lancé sous PrestaShop, doit exprimer [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/nailmatic-projet-prestashop-alliant-image-marque-e-commerce/">nailmatic : un projet PrestaShop alliant image de marque et e-commerce</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p dir="ltr">Avec son esprit fonceur et créatif et ses idées de génie, nailmatic agite le monde du beauty business ! <strong>Distributeur automatique de vernis, coffrets vernis, ligne Kids avec des vernis à l’eau&#8230;</strong> la marque ose et inspire des looks colorés empreints de bonne humeur. Une identité forte que le site, lancé sous PrestaShop, doit exprimer à tous les niveaux : du graphisme aux fonctionnalités.</p>
+<p dir="ltr"><span id="more-20807"></span></p>
+<h2 dir="ltr"><span style="color: #00ccff;">Esprit de marque</span></h2>
+<p dir="ltr">nailmatic, c’est une collection de vernis fun, féminins et résolument modernes. Boris et Lilian, les créateurs de la marque, ont savamment apporté une valeur ajoutée à ces produits en leur construisant une personnalité. Le vernis change au gré des looks et s’autorise des teintes insolites. Un sentiment d’insouciance renforcé par les p<strong>rix attractifs et la production 100 % française</strong> : il n’y a vraiment pas de quoi se priver !</p>
+<h2><span style="color: #00ccff;">Qualité graphique</span></h2>
+<p dir="ltr">nailmatic.com reflète au premier coup d’oeil l’esprit de liberté de la marque : <strong>un design novateur et dynamique</strong>, qui laisse la part belle aux visuels pour mettre les produits en valeur. L’univers de la marque se décline à mesure que la home se déroule. C’est frais, c’est clair et ça va à l’essentiel !</p>
+<h2 dir="ltr"><span style="color: #00ccff;">Une boutique propulsée par PrestaShop</span></h2>
+<p dir="ltr">Pour la création de sa boutique sur PrestaShop 1.6, la nailmaTeam a travaillé avec <a href="https://www.prestashop.com/fr/agences-web-partenaires/platinum/axome" target="_blank"><strong>l’agence certifiée Axome.</strong></a> Elle a ainsi pu s’appuyer sur différentes fonctionnalités et modules approuvés par la communauté PrestaShop.</p>
+<p dir="ltr">nailmatic met notamment à disposition<strong> sa liste des points de vente via le Store Locator</strong> de PrestaShop : une fonctionnalité agrémentée par un développement spécifique permettant à nailmatic de <strong>définir les gammes de leur produit disponibles dans chaque magasin.</strong></p>
+<p dir="ltr">La rubrique Journal est alimentée via le module Prestablog, qui a été adapté pour coller aux besoin de la marque et ses mises en page graphiques.</p>
+<div dir="ltr"> <a href="http://www.nailmatic.com/fr/points-de-vente" target="_blank"><img alt="Capture du 2016-11-16 15-35-21.png" src="https://lh3.googleusercontent.com/Wo4Y7XazQcOHEY0Gt7-4TLgChooZPhholhJLYJXjKI3BHaYOjCTDp3X30GWMB3FNUdQ3xSzP_0tpXH-Gig9JDBJnXPMtqow0PivT6qPJ_qhNeGwdZiOBbim_LgxQM5pHXyWnAq6N" width="602" height="572" /></a></div>
+<div dir="ltr"></div>
+<div dir="ltr"></div>
+<h2><span style="color: #00ccff;"> Configurateur</span></h2>
+<p dir="ltr">Le configurateur, c’est l’exemple d’une <strong>fonctionnalité technique au service de l’identité de marque.</strong> nailmatic a lancé le concept du coffret cadeau en 2013. En 2016, la marque va plus loin sur son site avec le configurateur. Ce service inédit permet de <strong>composer son propre coffret en choisissant le nombre de flacons, les couleurs avec la possibilité d’ajouter un message personnalisé &#8211; tout en visualisant le coffret.</strong> nailmatic invente encore une nouvelle façon d’acheter du vernis à ongle. Techniquement, l’outil s’appuie sur la fonctionnalité des packs de PrestaShop pour générer ces coffrets à la demande.</p>
+<p dir="ltr"><a href="http://www.nailmatic.com/fr/coffret-personnalise" target="_blank"><img alt="Capture du 2016-11-16 15-36-46.png" src="https://lh5.googleusercontent.com/xqB-q3r13sBawMGcGChAj9zIwTQImxUWXGJ3J2ey2EkAesrpRyeeZ4xeFmCVrYGRXI79H0gJkzZCbOreVJGRMZMCL85_dn8vgvA6QwY-jMozw8DlAjWXsmTJJB91DrJAVe-lrE6F" width="602" height="767" /></a></p>
+<h2 dir="ltr"><span style="color: #00ccff;">Responsive</span></h2>
+<p dir="ltr">Avec l’irrésistible ascension de la navigation mobile, le responsive est devenu indispensable. Pour nailmatic, c’est aussi une question de positionnement. Quand la marque imagine son distributeur automatique de vernis en 2013, elle mise sur l’achat spontané. Avec son site responsive, elle est accessible à tout moment et facilite l’achat “petit plaisir” qu’elle revendique depuis toujours.</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img class="aligncenter" alt="Capture du 2016-11-16 15-38-45.png" src="https://lh5.googleusercontent.com/Xc_3gWkLKvXcYpxeoQWTcs0cFkBnf-UF_gXvBz57F7FPMHj1mjQBuhsg1ssdUgialf4JwnX7aRqJoupUzNUFVDslTsaVq4sgJZHHbY43O4ivVIGht362MjQ2m1pm-SB98pTxp7H_" width="328" height="586" /></p>
+<h2 dir="ltr"><span style="color: #00ccff;">Des outils pour mieux convertir</span></h2>
+<p dir="ltr">Une fois son site lancé, l’entreprise a pu profiter des nombreux <a href="http://addons.prestashop.com/fr/" target="_blank">Addons</a> pour développer son chiffre d’affaires et recruter de nouveaux clients, comme notamment <a href="http://addons.prestashop.com/fr/18349-nostotagging.html" target="_blank">Nosto</a> pour le retargeting sur Facebook.</p>
+<h3><span style="color: #888888;"><b>Le mot d&rsquo;Axome</b></span></h3>
+<div><a href="http://www.axome.com/" target="_blank"><strong>Axome</strong></a> est la marque e-commerce de l&rsquo;agence de communication Trenta. Notre métier est de créer de la valeur pour les marques via le développement de stratégies BtoB et BtoC.</div>
+<p>&nbsp;</p>
+<div dir="ltr"></div>
+<p>&nbsp;</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/nailmatic-projet-prestashop-alliant-image-marque-e-commerce/">nailmatic : un projet PrestaShop alliant image de marque et e-commerce</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/nailmatic-projet-prestashop-alliant-image-marque-e-commerce/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>5 conseils pour obtenir un maximum d’avis clients positifs pour votre site Ecommerce</title>
+		<link>https://www.prestashop.com/blog/fr/5-conseils-obtenir-maximum-davis-clients-positifs-site-ecommerce/</link>
+		<comments>https://www.prestashop.com/blog/fr/5-conseils-obtenir-maximum-davis-clients-positifs-site-ecommerce/#comments</comments>
+		<pubDate>Tue, 17 Jan 2017 07:00:12 +0000</pubDate>
+		<dc:creator><![CDATA[mvalenza]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=21027</guid>
+		<description><![CDATA[<p>L’Ecommerce est devenu un marché très compétitif où vous pouvez facilement trouver la même offre sur plusieurs sites. Face à ces nombreux acteurs, la confiance est un critère de décision majeur pour les consommateurs, lors de l’acte d’achat. Pour se faire une idée du sérieux d’un site Ecommerce, le consommateur va alors très souvent consulter [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/5-conseils-obtenir-maximum-davis-clients-positifs-site-ecommerce/">5 conseils pour obtenir un maximum d’avis clients positifs pour votre site Ecommerce</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>L’Ecommerce est devenu un marché très compétitif où vous pouvez facilement trouver la même offre sur plusieurs sites. Face à ces nombreux acteurs,<strong> la confiance est un critère de décision majeur</strong> pour les consommateurs, lors de l’acte d’achat.</p>
+<p>Pour se faire une idée du sérieux d’un site Ecommerce, le consommateur va alors très souvent consulter les avis clients disponibles.<span id="more-21027"></span> </p>
+<p>Il est donc essentiel pour les Ecommerçants de <strong>maximiser les avis clients positifs</strong>, mais également de limiter les avis négatifs, qui sont un frein important à l’achat. </p>
+<p>Dans cette vidéo, Paul Patrick Beyeme, Sales Team Leader chez <a href="http://bit.ly/2hZpwEg" target="_blank">Trusted Shops</a>, vous donne <strong>5 conseils d’expert</strong> pour vous aider dans cette démarche et vous démarquer ainsi de vos concurrents. </p>
+<div class="g-ytsubscribe col-centered text-center" data-channelid="UCqDSbqSbkboMBARlYrhNa7g" data-layout="full" data-count="default"></div>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/J8E83n42DuM?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<div class="text-center"><a class="btn" style="background-color: #cd201f;border: 1px solid #b31217;border-bottom: 3px solid #b31217;margin: 20px 0 0;color: #fff" href="https://www.youtube.com/user/prestashop?utm_source=blog&amp;utm_medium=article&amp;utm_campaign=youtube&amp;utm_content=trustedshops">Voir plus de vidéos</a></div>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/5-conseils-obtenir-maximum-davis-clients-positifs-site-ecommerce/">5 conseils pour obtenir un maximum d’avis clients positifs pour votre site Ecommerce</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/5-conseils-obtenir-maximum-davis-clients-positifs-site-ecommerce/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Faire appel aux YouTubeurs : un moyen efficace de booster les ventes de votre site Ecommerce !</title>
+		<link>https://www.prestashop.com/blog/fr/faire-appel-aux-youtubeurs-moyen-efficace-booster-les-ventes-site-ecommerce/</link>
+		<comments>https://www.prestashop.com/blog/fr/faire-appel-aux-youtubeurs-moyen-efficace-booster-les-ventes-site-ecommerce/#comments</comments>
+		<pubDate>Tue, 10 Jan 2017 15:07:28 +0000</pubDate>
+		<dc:creator><![CDATA[mvalenza]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=20995</guid>
+		<description><![CDATA[<p>Les YouTubeurs ! Plus que des stars du Web, ce sont de vrais influenceurs, suivis et écoutés par de plus en plus d’internautes. En effet : YouTube, 2ème moteur de recherche au monde, permet à ces influenceurs de la vidéo d’embarquer dans leur univers, dans leur passion… une communauté allant jusqu’à plusieurs millions d’abonnés. Une [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/faire-appel-aux-youtubeurs-moyen-efficace-booster-les-ventes-site-ecommerce/">Faire appel aux YouTubeurs : un moyen efficace de booster les ventes de votre site Ecommerce !</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Les YouTubeurs ! Plus que des stars du Web, ce sont de vrais influenceurs, suivis et écoutés par de plus en plus d’internautes.</p>
+<p>En effet : YouTube, <strong>2ème moteur de recherche au monde</strong>, permet à ces influenceurs de la vidéo d’embarquer dans leur univers, dans leur passion… une communauté allant jusqu’à <strong>plusieurs millions d’abonnés.</strong><span id="more-20995"></span></p>
+<p>Une cible potentielle très qualifiée pour les sites Ecommerce, qui sollicitent de plus en plus les YouTubeurs pour faire parler de leur offre !</p>
+<p>Dans la vidéo d’aujourd’hui, Elodie, de l’agence <a href="http://bit.ly/2hHGjNQ" target="_blank">Envergure Digitale</a>, et YouTubeuse avec la chaîne <a href="http://bit.ly/2hHIWPW" target="_blank">Lecoindelodie</a>, comptant plus de <strong>200 000 abonnés</strong>, vous explique pourquoi et comment travailler efficacement avec un YouTubeur pour <strong>acquérir de nouveaux clients&nbsp;!</strong></p>
+<div class="g-ytsubscribe col-centered text-center" data-channelid="UCqDSbqSbkboMBARlYrhNa7g" data-layout="full" data-count="default"></div>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/ybFO7hQ2QNo?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<div class="text-center"><a class="btn" style="background-color: #cd201f;border: 1px solid #b31217;border-bottom: 3px solid #b31217;margin: 20px 0 0;color: #fff" href="https://www.youtube.com/user/prestashop?utm_source=blog&amp;utm_medium=article&amp;utm_campaign=youtube&amp;utm_content=enverguredigitale">Voir plus de vidéo</a></div>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/faire-appel-aux-youtubeurs-moyen-efficace-booster-les-ventes-site-ecommerce/">Faire appel aux YouTubeurs : un moyen efficace de booster les ventes de votre site Ecommerce !</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/faire-appel-aux-youtubeurs-moyen-efficace-booster-les-ventes-site-ecommerce/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Comment migrer votre site PrestaShop vers un nouveau serveur</title>
+		<link>https://www.prestashop.com/blog/fr/comment-migrer-site-prestashop-vers-nouveau-serveur/</link>
+		<comments>https://www.prestashop.com/blog/fr/comment-migrer-site-prestashop-vers-nouveau-serveur/#comments</comments>
+		<pubDate>Mon, 09 Jan 2017 11:25:30 +0000</pubDate>
+		<dc:creator><![CDATA[Eva Lacalle]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+		<category><![CDATA[Developpement / Technique]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=20998</guid>
+		<description><![CDATA[<p>Le transfert de votre boutique PrestaShop vers un nouveau serveur figure parmi les tâches techniques auxquelles tout propriétaire de boutique en ligne peut se trouver confronté. Déplacer la totalité d&#8217;une boutique en ligne vers un nouveau serveur ne présente pas de difficulté particulière, mais il est nécessaire de prendre en compte un ensemble d&#8217;aspects et [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/comment-migrer-site-prestashop-vers-nouveau-serveur/">Comment migrer votre site PrestaShop vers un nouveau serveur</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><strong>Le transfert de votre boutique PrestaShop vers un nouveau serveur</strong> figure parmi les tâches techniques auxquelles tout propriétaire de boutique en ligne peut se trouver confronté. Déplacer la totalité d&rsquo;une boutique en ligne vers un nouveau serveur ne présente pas de difficulté particulière, mais il est nécessaire de prendre en compte un ensemble d&rsquo;aspects et de suivre le processus en respectant un ordre approprié afin d&rsquo;éviter tout problème sur votre site internet. Nous avons créé un petit guide sur le blog de PrestaShop qui vous aidera à <strong>migrer votre site vers un autre hébergeur.</strong><span id="more-20998"></span></p>
+<h4 style="color: #eaad52">Avant de commencer&#8230;</h4>
+<p>Avant toute chose, pour migrer votre site web PrestaShop, vous devez vous assurer de remplir les conditions suivantes :</p>
+<ul>
+<li><strong>Avoir installé sur votre ordinateur le client FTP de votre choix</strong> et pouvoir vous connecter via FTP au nouveau serveur et à l&rsquo;ancien. Si vous rencontrez un problème à ce stade du processus, contactez l&rsquo;assistance de l&rsquo;hébergeur en question pour obtenir les informations dont vous avez besoin.</li>
+<li><strong>Avoir un compte administrateur dans le cPanel de vos boutiques en ligne,</strong> sur le nouveau serveur comme sur l&rsquo;ancien.</li>
+<li><strong>Avoir également un compte administrateur dans le back-office de vos boutiques en ligne PrestaShop.</strong></li>
+</ul>
+<p>Si vous êtes prêts, vous pouvez commencer la migration !</p>
+<h4 style="color: #eaad52">Étape 1 : déterminez la version de PrestaShop sur laquelle se trouve votre boutique en ligne, puis mettez votre site en maintenance</h4>
+<p><strong>Actualisez si nécessaire la version de PrestaShop sur laquelle fonctionne votre site web.</strong> Pour déterminer la version de PrestaShop sur laquelle se trouve votre boutique, il vous suffit de regarder la barre supérieure du back-office de votre boutique si vous êtes sur la version 1.6 et si vous êtes sur la version 1.5 vous la trouverez dans la barre inferieure. De plus, même si cela n&rsquo;est pas obligatoire, <strong>nous vous recommandons de mettre votre boutique en ligne en maintenance.</strong> Ainsi, si quelqu&rsquo;un accède à votre domaine, vous ne perdrez aucune donnée pendant le processus de migration de votre site web PrestaShop. Si votre site web est en local, cette étape n&rsquo;est pas nécessaire puisque votre site web PrestaShop n&rsquo;est pas public.</p>
+<h4 style="color: #eaad52">Étape 2 : créez une copie de sauvegarde sur l&rsquo;ancien serveur avant de faire la migration</h4>
+<p>Pour ce faire, vous devez accéder au panneau de configuration du serveur actuel (c&rsquo;est-à-dire l&rsquo;ancien) en tant qu&rsquo;administrateur et <strong>rechercher le module de backup qui vous permettra de générer rapidement une copie de sauvegarde de votre site web PrestaShop</strong>. Si vous rencontrez un problème à ce stade, contactez l&rsquo;assistance de l&rsquo;hébergeur, qui vous expliquera rapidement la marche à suivre. Une fois la sauvegarde créée, <strong>téléchargez-la sur votre ordinateur</strong>. N&rsquo;effectuez aucune étape de migration de votre boutique en ligne PrestaShop avant d&rsquo;avoir enregistré une copie de sauvegarde. Ainsi, en cas de problème lors du processus, vous ne perdrez pas votre site web.</p>
+<h4 style="color: #eaad52">Étape 3 : téléchargez les fichiers de votre boutique en ligne sur votre ordinateur</h4>
+<p>Commençons la migration : téléchargez tous les fichiers de votre boutique en ligne PrestaShop sur votre ordinateur. Pour ce faire, suivez les étapes ci-dessous : En premier lieu, créez un nouveau dossier sur votre bureau et connectez-vous au client FTP que vous avez choisi. <strong>Connectez-vous ensuite via le FTP au serveur actuel</strong>. Comment savoir si vous avez correctement effectué cette étape ? Si la connexion s&rsquo;est établie avec succès, une liste de dossiers devrait apparaître dans le volet droit. Une fois connecté, vous devez vous rendre sur votre répertoire public, généralement intitulé <strong>public_html</strong> ou htdocs, et l&rsquo;ouvrir. Sachez que si votre boutique en ligne est installée dans un sous-répertoire (c&rsquo;est-à-dire, si elle est installée sur un domaine au format de type : <a href="http://www.tuweb.com/tienda" target="_blank">www.tuweb.com/tienda</a>), vous devrez rechercher le dossier correspondant et l&rsquo;ouvrir. Sélectionnez tous les fichiers (ctrl+A/cmd+A) et glissez-les vers le dossier que vous avez créé sur votre bureau pour qu&rsquo;ils se téléchargent sur votre ordinateur. Ce processus peut durer quelques minutes, en fonction du nombre de fichiers et de leur taille. Une fois tous les fichiers de votre site web PrestaShop téléchargés, un message d&rsquo;avertissement apparaîtra pour vous signaler que le transfert des fichiers est terminé.</p>
+<h4 style="color: #eaad52">Étape 4 : exportez la base de données de votre boutique en ligne</h4>
+<p>Une fois les fichiers transférés sur votre ordinateur, cliquez sur <strong>revenir au cPanel du serveur</strong> actuel et recherchez le <strong>module phpMyAdmin</strong> (<a href="https://www.phpmyadmin.net/" target="_blank">phpMyAdmin</a> est un outil écrit en PHP pour gérer une base de données, qui vous permet de créer, supprimer ou modifier des éléments de bases de données SQL). Lors de l&rsquo;ouverture du module, vous trouverez sur la partie gauche une liste de toutes les bases de données disponibles. <strong>Vous devez sélectionner la base de données de votre boutique en ligne actuelle</strong>. Vous trouverez alors sur la partie droite une liste de tables. <strong>Cliquez sur « exporter »</strong> pour commencer le téléchargement de notre base de données. Laissez telles quelles les options qui apparaissent cochées par défaut et continuez. À ce stade, votre navigateur commencera à télécharger un fichier compressé contenant une copie de la base de données de votre boutique en ligne PrestaShop.</p>
+<h4 style="color: #eaad52">Étape 5 : créez une nouvelle base de données sur le nouveau serveur</h4>
+<p>Accédez au panneau de configuration du nouveau serveur en tant qu&rsquo;administrateur, <strong>recherchez le module MySQLDatabaseWizard</strong> et suivez les étapes afin de créer une nouvelle base de données. Donnez-lui un nom qui se distingue nettement de la base de données de votre précédent site web PrestaShop.</p>
+<h4 style="color: #eaad52">Étape 6 : importez la base de données de l&rsquo;ancienne boutique en ligne sur le nouveau serveur</h4>
+<p><strong>Recherchez à nouveau le module phpMyAdmin</strong> sur le serveur. Lors de l&rsquo;ouverture du module, vous verrez sur le panneau de gauche (dans la liste des bases de données disponibles) la base de données que vous avez créée précédemment. Sélectionnez-la. <strong>Sur le panneau de droite, cliquez sur « Import »</strong> et sélectionnez le fichier que vous avez téléchargé à l&rsquo;étape 4. Lorsque vous aurez correctement importé la base de données de votre site web PrestaShop, un message d&rsquo;avertissement apparaîtra.</p>
+<h4 style="color: #eaad52">Étape 7 : téléchargez les fichiers de votre boutique en ligne sur le nouveau serveur</h4>
+<p><strong>Revenez sur votre client FTP et connectez-vous au serveur</strong> que vous avez choisi. <strong>Naviguez jusqu&rsquo;au dossier public_html</strong>. Si vous souhaitez enregistrer votre boutique en ligne à la racine ou dans un sous-dossier (c&rsquo;est-à-dire <a href="http://www.tuweb.com/tienda" target="_blank">www.tuweb.com/tienda</a>), vous devrez créer le dossier correspondant à l&rsquo;intérieur du répertoire public, puis l&rsquo;ouvrir. <strong>Glissez les fichiers</strong> (que vous avez copiés à l&rsquo;étape 3) depuis votre ordinateur et déposez-les dans le répertoire correspondant du nouveau serveur. Ce processus peut prendre quelques minutes.</p>
+<h4 style="color: #eaad52">Étape 8 : éditez les fichiers config/settings.inc.php de PrestaShop</h4>
+<p><strong>Recherchez dans votre client FTP le fichier config/settings.inc.php</strong>, ouvrez-le et éditez les lignes indiquées ci-après. <img class="alignnone size-full wp-image-21004" alt="configuracion_servidor" src="https://www.prestashop.com/blog/fr/files/2017/01/configuracion_servidor_paso8.jpg" width="669" height="219" /> Vous devez éditer ce fichier PHP avec les informations fournies par l&rsquo;hébergeur, et celles que vous avez choisies au moment de la configuration de votre site web PrestaShop :</p>
+<ul>
+<li>DB_SERVER : serveur de la base de données ;</li>
+<li>DB_NAME : nom de la base de données de l&rsquo;étape 5 ;</li>
+<li>DB_USER : utilisateur associé à la base de données ;</li>
+<li>DB_PASSWD : mot de passe de l&rsquo;utilisateur ;</li>
+</ul>
+<p>Enregistrez le dossier puis téléchargez-le sur le serveur.</p>
+<h4 style="color: #eaad52">Étape 9 : vérifiez les autorisations</h4>
+<p>Avant de vérifier que la nouvelle boutique en ligne fonctionne correctement, <strong>vous devez vous assurer que les fichiers et répertoires détiennent les autorisations requises.</strong> Vous devez toujours consulter l&rsquo;hébergeur que vous avez préalablement choisi, mais en général, la majorité des hébergeurs travaille avec :</p>
+<ul>
+<li>autorisations pour les fichiers : 664</li>
+<li>autorisations pour les répertoires : 755</li>
+</ul>
+<p>Si vous rencontrez le moindre problème avec le téléchargement d&rsquo;images, essayez l&rsquo;autorisation 777.</p>
+<h4 style="color: #eaad52">Étape 10 : videz le cache</h4>
+<p>L&rsquo;idéal serait d&rsquo;effacer le cache de votre page et d&rsquo;<strong>établir une nouvelle réindexation</strong> pour vous assurer que tout fonctionne correctement. Veuillez noter que si vous ne respectez pas cette étape, les données que vous voyez peuvent être celles de l&rsquo;ancienne page enregistrée dans le cache de votre navigateur, et vous pouvez ne pas voir les éventuelles erreurs. Pour vider correctement le cache, effacez le contenu des dossiers /cache/smarty/compile et /chache/smarty/cache, <strong>à l&rsquo;exception du fichier index.php</strong> dans les deux cas.</p>
+<h4 style="color: #eaad52">Étape 11 : quittez le mode maintenance</h4>
+<p>Entrez dans le back-office de votre site web PrestaShop et <strong>désactivez le mode maintenance de votre boutique en ligne</strong>. Vous devez ensuite vous connecter à votre domaine et vérifier que votre site web fonctionne correctement. Si c&rsquo;est le cas, <strong>le processus de migration de votre site web PrestaShop vers un autre hébergeur est terminé</strong>. Votre boutique en ligne est désormais sur votre nouveau serveur.</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/comment-migrer-site-prestashop-vers-nouveau-serveur/">Comment migrer votre site PrestaShop vers un nouveau serveur</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/comment-migrer-site-prestashop-vers-nouveau-serveur/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Calendrier e-commerce 2017 : vos 52 astuces pour réussir</title>
+		<link>https://www.prestashop.com/blog/fr/calendrier-e-commerce-2017-vos-52-astuces-pour-reussir/</link>
+		<comments>https://www.prestashop.com/blog/fr/calendrier-e-commerce-2017-vos-52-astuces-pour-reussir/#comments</comments>
+		<pubDate>Thu, 05 Jan 2017 11:36:09 +0000</pubDate>
+		<dc:creator><![CDATA[Cécile Dubouis]]></dc:creator>
+				<category><![CDATA[Actualités PrestaShop]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=20955</guid>
+		<description><![CDATA[<p>L’année peut commencer, votre calendrier e-commerce 2017 est arrivé ! Des périodes de préparation pour chaque promotion aux dates clés dans votre pays, retrouvez chaque semaine un conseil pour réussir toutes vos opérations commerciales, booster votre trafic, optimiser vos conversions et votre chiffre d’affaires et manager simplement et efficacement votre boutique ! … Et merci [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/calendrier-e-commerce-2017-vos-52-astuces-pour-reussir/">Calendrier e-commerce 2017 : vos 52 astuces pour réussir</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>L’année peut commencer, votre <a href="http://www.prestashop.com/fr/calendrier-ecommerce">calendrier e-commerce</a> 2017 est arrivé !</p>
+<p>Des périodes de préparation pour chaque promotion aux dates clés dans votre pays, <strong>retrouvez chaque semaine un conseil</strong> pour réussir toutes vos opérations commerciales, booster votre trafic, optimiser vos conversions et votre chiffre d’affaires et manager simplement et efficacement votre boutique !<br />
+<span id="more-20955"></span><br />
+… Et merci à <a href="http://www.pagination.com/" target="_blank">Pagination.com</a> pour l’intégration du template et des données <img src="https://www.prestashop.com/blog/fr/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> </p>
+<h2 style="color:#df0067">12 pages pour vous accompagner tout au long de l’année</h3>
+<p>Vous avez du talent et des idées. On vous aide simplement à vous organiser !</p>
+<p><strong>Les principales périodes d’activité en un coup d’oeil</strong>. Grâce au calendrier circulaire, vous savez <strong>quand et comment vous préparer pour chaque événement commercial majeur</strong> (soldes, Noël, Fête des Mères, Black Friday…) mais aussi pour les événements spécifiques à 2017.</p>
+<p><strong>Chaque semaine, un conseil</strong>. Pour gagner en trafic ou en conversions, une idée pour améliorer l’expérience utilisateur, optimiser votre panier moyen ou fidéliser vos clients sur votre boutique en ligne…</p>
+<p><strong>Les secrets de réussite des autres e-commerçants</strong>. Chaque mois, un e-commerçant PrestaShop partage avec vous l’une de ses astuces. Profitez-en !</p>
+<p><strong>Une sélection d’outils pour vous faciliter le quotidien</strong>. Pour chaque conseil, retrouvez une sélection de modules pour réaliser facilement vos newsletters, créer vos promos en quelques clics, optimiser la gestion de votre boutique…</p>
+<h2 style="color:#df0067">Téléchargé dans le monde entier</h2>
+<p>“Je suis débordé, ce sont les soldes, je ne connaissais pas les dates à l’avance et je n’ai rien préparé encore sur ma boutique&#8230; Cette période est cruciale commercialement et je suis en train de la rater !”.<br />
+Voilà ce que l’on nous confiait il y a 5 ans lors des rencontres ou des audits e-commerce. Il n’existait alors aucun outil pour aider les e-commerçants dans leur organisation quotidienne.<br />
+Quelques semaines plus tard, nous avons créé le calendrier circulaire qui permet en un coup d’œil de savoir quand et comment se préparer pour chaque promotion.<br />
+Depuis, chaque année, notre calendrier e-commerce est téléchargé dans le monde entier et repris par de nombreux sites d’experts de l’e-commerce. Je suis heureuse et touchée que ce calendrier ait pu vous aider dans votre quotidien.</p>
+<p><strong>Où que vous soyez, profitez de conseils adaptés à votre pays !</strong><br />
+Avec l’aide des <a href="https://ambassadors.prestashop.com/" target="_blank">Ambassadeurs PrestaShop</a>, nous avons décliné notre calendrier e-commerce pour davantage de pays cette année afin d’accompagner toujours plus de commerçants dans la réussite de leur activité.<br />
+Le calendrier 2017 est disponible en <strong>8 langues</strong> et personnalisé pour <strong>10 pays</strong> (Allemagne, Argentine, Brésil, Espagne, Etats-Unis, France, Italie, Pays-Bas, Pologne et Royaume Uni).</p>
+<p>Vous avez désormais les clés pour tout anticiper, savoir quand et comment préparer votre site e-commerce pour 2017 !<br />
+… Une dernière chose. <strong>Votre boutique est unique</strong>.<br />
+Aussi, ce calendrier comporte également des cases à remplir. Par vous.<br />
+Car mieux que personne, vous connaissez vos produits, ce qui plaira à vos clients. Ajoutez sur ces cases vides les actions que vous souhaitez mettre en place afin de les anticiper et réussir pleinement cette nouvelle année.<br />
+&laquo;&nbsp;L&rsquo;avenir, c&rsquo;est du passé en préparation&nbsp;&raquo; (Pierre Dac).<br />
+Alors préparons et construisons ensemble une très belle année !</p>
+<p>Téléchargez votre <a href="http://www.prestashop.com/fr/calendrier-ecommerce">calendrier e-commerce 2017</a></p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/calendrier-e-commerce-2017-vos-52-astuces-pour-reussir/">Calendrier e-commerce 2017 : vos 52 astuces pour réussir</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/calendrier-e-commerce-2017-vos-52-astuces-pour-reussir/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Email marketing : le top des astuces à tester</title>
+		<link>https://www.prestashop.com/blog/fr/email-marketing-top-astuces-tester/</link>
+		<comments>https://www.prestashop.com/blog/fr/email-marketing-top-astuces-tester/#comments</comments>
+		<pubDate>Tue, 03 Jan 2017 08:00:36 +0000</pubDate>
+		<dc:creator><![CDATA[Les amis de Preston]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=20983</guid>
+		<description><![CDATA[<p>Qu’il s’agisse de marketing, de stratégie de marque ou encore de construire une relation client durable et d’obtenir une réponse directe, l’e-mail est indubitablement l’outil le plus puissant à disposition. Tandis qu’un e-mail bien rédigé peut augmenter votre taux de réponse de manière considérable et vous permettre de forger une relation durable avec vos abonnés, [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/email-marketing-top-astuces-tester/">Email marketing : le top des astuces à tester</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Qu’il s’agisse de marketing, de stratégie de marque ou encore de construire une relation client durable et d’obtenir une réponse directe, l’e-mail est indubitablement l’outil le plus puissant à disposition. Tandis qu’un e-mail bien rédigé peut augmenter votre taux de réponse de manière considérable et vous permettre de forger une relation durable avec vos abonnés, un e-mail bâclé peut non seulement faire fuir vos clients potentiels, mais aussi nuire à votre marque. <span id="more-20983"></span></p>
+<p>De plus, l’e-mail est un outil remarquable qui vous aide à cibler le contenu pertinent et à l’envoyer aux abonnés intéressés.</p>
+<p>Idéalement, les e-mails e-commerce poursuivent trois objectifs :</p>
+<ol style="font-weight: bold;">
+<li>Booster les ventes</li>
+<li>Augmenter le chiffre d’affaires</li>
+<li>Faire en sorte que les abonnés restent actifs et les inciter à acheter encore et encore</li>
+</ol>
+<p>Il peut être difficile de développer des stratégies d’emailing efficaces. Si vous souhaitez tirer profit des innombrables opportunités qu’offre le marketing par e-mail, vous devez impérativement et continuellement tester, analyser et améliorer l’impact de vos messages.</p>
+<p><em>Une règle tacite en matière de conversation veut que nous tenions des propos pertinents pour être compris par notre entourage. </em></p>
+<p>La même règle s’applique au marketing par e-mail. Au cours de nos vies mouvementées, nous ne faisons pas attention à ce qui ne nous concerne pas, c’est pourquoi nous vous conseillons de classer vos abonnés par âge, sexe, lieu de résidence, achats effectués, intérêts et articles les plus vus. Cela vous permettra de personnaliser vos e-mails et d’envoyer des informations pertinentes aux abonnés concernés.</p>
+<p>Explorons à présent les stratégies destinées aux sites e-commerce pour un marketing par e-mail réussi.</p>
+<h2 style="color: #251b5b;">1. Conception et délivrabilité</h2>
+<p>Pour ne rencontrer aucun problème de délivrabilité, votre e-mail doit être correctement conçu. Vous devez vous assurer que tous les principaux logiciels de messagerie prennent en charge les éléments présents dans votre e-mail.</p>
+<p>D’après le dernier <a href="https://litmus.com/blog/mobile-friendly-email-september-2016-email-market-share" target="_blank">rapport d’analyse de Litmus sur les e-mails</a>, 56 % des e-mails sont ouverts via un appareil mobile, 17 % par le biais d’un logiciel de bureau et seulement 27 % grâce à une messagerie Web.</p>
+<p>La conception doit être responsive pour être compatible avec les ordinateurs portables et les appareils mobiles.</p>
+<p>Vos e-mails doivent invariablement inclure un lien de désabonnement et un centre de gestion des préférences permettant à vos clients de choisir à quel moment vous pouvez les contacter. Ainsi, vous réduirez votre taux de spam et gagnerez en crédibilité.</p>
+<p><img class="aligncenter size-medium wp-image-20990" alt="design-deliverability" src="https://www.prestashop.com/blog/fr/files/2017/01/design-deliverability-300x204.jpg" width="300" height="204" /></p>
+<h2 style="color: #251b5b;">2. Template d’e-mail</h2>
+<p>Un template d’e-mail doit inclure les éléments suivants :</p>
+<h4 style="color: #251b5b;">a. Le champ expéditeur</h4>
+<p>Le champ dédié à l’expéditeur est très important puisqu’il a un impact considérable sur votre taux d’ouverture. Si vous ne parvenez pas à attirer l’attention du destinataire avec le champ expéditeur, votre objet a de grandes chances d’être lui aussi ignoré et votre e-mail finira probablement dans la corbeille ou parmi les spams. Pour éviter cela, utilisez un nom d’expéditeur fiable et facilement identifiable par vos abonnés. Il s’agit généralement du nom de votre entreprise ou de son fondateur.</p>
+<h4 style="color: #251b5b;">b. Objet</h4>
+<p>L’objet de votre e-mail doit susciter la curiosité ou énoncer clairement le contenu de l’e-mail. Par exemple, l’objet « Vous ne pouvez pas rater ça » éveille la curiosité, tandis que « 70 % de réduction sur tous les articles » est un objet très clair. Un objet original attire bien plus vite l’attention des abonnés qu’un objet ordinaire.</p>
+<p>Combien de caractères l’objet doit-il contenir ? Si vous souhaitez que vos abonnés puissent lire l’intégralité de l’objet dans leur boîte de réception, veillez à ce qu’il ne dépasse pas 50 caractères.</p>
+<p><a href="http://www.contactmonkey.com/blog/portfolio-items/funnelholic-blog-top-5-best-practices-for-email-subject-lines" target="_blank">40 % des e-mails sont d’abord ouverts sur des téléphones mobiles</a>, c’est pourquoi limiter le nombre de caractères de l’objet à 50 est extrêmement important. Ajoutez les termes « Livraison gratuite » à votre objet et vous obtiendrez un meilleur taux d’ouverture. D’après une recherche, de tels e-mails bénéficient d’un <a href="http://www.marketingprofs.com/charts/2013/11228/the-most-effective-keywords-in-email-subject-lines" target="_blank">taux d’ouverture supérieur à la moyenne de 35,9 %</a>. <a href="http://www.marketingprofs.com/charts/2013/11228/the-most-effective-keywords-in-email-subject-lines" target="_blank">Les mots de type « économisez », « achetez », « bon marché » et « gratuit » ont tendance à rebuter les abonnés</a>.</p>
+<p>Les objets personnalisés incluant des emojis ont également prouvé leur capacité à booster les taux d’ouverture. Ajoutez un bonhomme de neige, des clochettes ou encore des emojis festifs à vos objets d’e-mails de fêtes de fin d’année.</p>
+<p><img class="aligncenter size-full wp-image-20984" alt="emojis" src="https://www.prestashop.com/blog/fr/files/2017/01/emojis.png" width="663" height="201" /></p>
+<p style="text-align: right;"><em>Source : <a href="http://www.emailmonks.com/infographics/ecommerce-email-marketing-best-practices/" target="_blank">Infographie Emailmonks</a></em></p>
+<p><img class="aligncenter size-full wp-image-20986" alt="subjetline" src="https://www.prestashop.com/blog/fr/files/2017/01/subjetline.png" width="701" height="131" /></p>
+<h4 style="color: #251b5b;">c. Accroche</h4>
+<p>Une accroche captivante et concise est également un élément important susceptible d’améliorer le taux d’ouverture de votre e-mail. Elle dévoile subtilement aux clients le contenu de l’e-mail avant même qu’ils ne l’ouvrent.</p>
+<p><img class="aligncenter size-medium wp-image-20985" alt="preheader-text" src="https://www.prestashop.com/blog/fr/files/2017/01/preheader-text-201x300.jpg" width="201" height="300" /></p>
+<h4 style="color: #251b5b;">d. Corps de l’e-mail</h4>
+<p>Après avoir ouvert votre e-mail, vos abonnés ne doivent pas regretter leur décision, mais se réjouir de la réponse que votre e-mail apporte à leurs problèmes. Les mots que vous employez doivent « résonner » et transmettre l’empathie plutôt que l’intention de vendre. Pour vos e-mails de fêtes de fin d’année, vous pouvez adopter un ton festif, ajouter des couleurs vives, des animations et des graphiques hauts en couleur. N’oubliez pas que <a href="http://blog.mojn.com/ecommerce-personalization-stats/" target="_blank">75 % des consommateurs aiment les e-mails personnalisés</a>.</p>
+<h2 style="color: #251b5b;">3. Offres intéressantes et CTA bien visibles</h2>
+<p>La plupart du temps, ce sont les incitations et les offres intéressantes qui génèrent des ventes et persuadent l’utilisateur de passer à l’action. Un CTA (appel à l’action) bien visible dans vos e-mails guidera vos utilisateurs. Les abonnés doivent ressentir le besoin de passer à l’action. Ils cherchent des produits capables de résoudre leurs problèmes. Si votre produit ne leur facilite pas la vie, ils penseront tout simplement qu’ils se portent mieux sans. L’objectif de votre e-mail est de les convaincre du contraire et de les pousser à passer à l’action.</p>
+<p>Pour aller plus loin, offrez-leur quelque chose d’unique en échange de ce clic. Il peut s’agir <em>d’une remise, d’un cadeau ou d’un bon de réduction exclusif à valoir sur leur prochain achat</em>.</p>
+<p>Les e-mails e-commerce offrant des bons de réduction bénéficient de taux d’ouverture, de clic et d’achat supérieurs. <a href="http://www.indonesia-investments.com/news/todays-headlines/indonesian-finance-ministry-extends-tax-incentive-pioneering-industries/item5864" target="_blank">Il est intéressant de souligner que les entreprises dépensent chaque année 76,9 milliards de dollars en incitations et en promotions</a>.</p>
+<h2 style="color: #251b5b;">4. Heure d’envoi des e-mails</h2>
+<p>Pour vous assurer que vos destinataires ouvrent vos e-mails, vous devez absolument les envoyer à des heures bien précises. Inutile de préciser que vos clients n’apprécieraient pas de recevoir un e-mail promotionnel à 2 heures du matin. Approchez vos clients au moment le plus opportun pour obtenir les meilleurs résultats possible de votre campagne d’emailing.</p>
+<p>D’après Mailchimp, <a href="https://blog.mailchimp.com/insights-from-mailchimps-send-time-optimization-system/" target="_blank">le meilleur jour de la semaine pour envoyer un e-mail est le jeudi</a>. Par ailleurs, l’heure d’envoi optimale est 10 heures du matin dans le fuseau horaire du destinataire.</p>
+<p>Toutefois, il est vivement conseillé de surveiller de près les données relatives à vos e-mails pour atteindre le meilleur taux d’engagement possible. Déterminez les heures d’envoi qui fonctionnent le mieux pour vous afin que vos e-mails ne se retrouvent pas enfouis quelque part dans la boîte de réception.</p>
+<h2 style="color: #251b5b;">5. Automatisation des e-mails</h2>
+<p>Vos abonnés doivent savoir qu’ils comptent pour vous. Dans le cadre de l’e-commerce, l’envoi automatique d’e-mails marketing fonctionne très bien puisqu’il permet de fidéliser les abonnés et favorise les ventes répétées.</p>
+<p>L’automatisation vous épargne l’effort d’envoyer manuellement un e-mail personnalisé à vos abonnés. Vous pouvez programmer votre communication par e-mail et ainsi répondre aux attentes de chaque abonné tout au long du cycle de vie des e-mails.</p>
+<p>Une fois que l’un de vos clients s’est abonné à votre newsletter ou a confirmé sa première commande, vous pouvez lancer votre campagne d’e-mails automatiques en commençant par l’e-mail de bienvenue, l’e-mail promotionnel, l’e-mail transactionnel et l’e-mail contenant les informations d’expédition.</p>
+<p>Vous avez également la possibilité de déclencher l’envoi d’un e-mail d’abandon de panier si l’abonné y a laissé un article. De plus, vous pouvez même recommander des produits dans l’e-mail de panier abandonné ou lors de la confirmation d’un achat.</p>
+<p>Faites preuve d’originalité et retenez l’attention des clients avec des idées uniques susceptibles de promouvoir votre marque.<br />
+Les fêtes approchant à grands pas, vous pouvez opter pour les e-mails automatiques suivants :</p>
+<p><img class="aligncenter size-full wp-image-20987" alt="sur-la-table" src="https://www.prestashop.com/blog/fr/files/2017/01/sur-la-table.jpg" width="236" height="1254" /></p>
+<ul>
+<li>Des idées cadeaux de dernière minute</li>
+<li>Demander à vos abonnés de laisser un commentaire et de parrainer des amis ou des membres de leur famille en échange de cadeaux de fête exclusifs lors de leur inscription</li>
+<li>Des e-mails de vente croisée</li>
+</ul>
+<p><img class="aligncenter size-full wp-image-20989" alt="your-next-box" src="https://www.prestashop.com/blog/fr/files/2017/01/your-next-box.jpg" width="500" height="1495" /></p>
+<h2 style="color: #251b5b;">6. N’hésitez pas à tester votre e-mail</h2>
+<p>Les spécialistes du marketing par e-mail pensent généralement que les tests A/B prennent trop de temps. Or, ce petit investissement peut grandement améliorer vos résultats. Ces tests vous permettent d’évaluer la meilleure offre pour l’intégralité de votre base de clients, mais vous aident aussi à déterminer quels groupes de clients choisissent des offres spécifiques.</p>
+<p><em>Testez TOUJOURS vos e-mails avant d’appuyer sur ENVOYER. </em></p>
+<p>En fin de compte, le marketing par e-mail repose sur la création de contenus pertinents et cohérents destinés à dissuader les clients de se désabonner. Tirez profit de ces leçons pour vos futures campagnes et veillez à effectuer plusieurs tests pour plus de sécurité.</p>
+<h2 style="color: #251b5b;">Touche finale</h2>
+<p>Vous pouvez réussir vos campagnes d’emailing pour les fêtes sans pour autant devenir ce *fameux* site e-commerce qui envoie des e-mails incohérents trop fréquemment. Les clients apprécient les e-mails créatifs qui proposent plus que du « marketing pur » et des techniques de vente. Avec des e-mails efficaces, vous obtiendrez des résultats extraordinaires.</p>
+<p><span style="text-decoration: underline;"><strong>A propos de l&rsquo;auteur :</strong></span></p>
+<p>Kevin est responsable marketing chez <a href="http://www.emailmonks.com/" target="_blank">EmailMonks</a>, une entreprise de programmation et de conception d’e-mails en plein essor. Il est spécialisé en conception d’e-mails aux graphismes percutants, en conversion HTML de <a href="http://www.emailmonks.com/psd-to-email/psd-to-email-html-service.html" target="_blank">PSD en e‑mails responsive</a>, et bien plus encore. Kevin est fan de gadgets, de vélo, de jazz et ne vit que pour l&rsquo;« e-mail marketing ». C’est un expert du branding qui adore partager ses idées avec ses collègues. Suivez-le sur <a href="https://twitter.com/imkevin_monk" target="_blank">Twitter</a> !</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/email-marketing-top-astuces-tester/">Email marketing : le top des astuces à tester</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/email-marketing-top-astuces-tester/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PrestaShop 1.7 : contribuez aux traductions du logiciel</title>
+		<link>https://www.prestashop.com/blog/fr/prestashop-1-7-contribuez-aux-traductions-du-logiciel/</link>
+		<comments>https://www.prestashop.com/blog/fr/prestashop-1-7-contribuez-aux-traductions-du-logiciel/#comments</comments>
+		<pubDate>Wed, 21 Dec 2016 08:00:30 +0000</pubDate>
+		<dc:creator><![CDATA[Alexandra Even]]></dc:creator>
+				<category><![CDATA[Actualités PrestaShop]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=20951</guid>
+		<description><![CDATA[<p>Open-source et gratuit, PrestaShop doit beaucoup à sa communauté qui contribue chaque jour à son amélioration. Modification du code source, retours sur la Forge, création de modules, ou encore participation à des tests utilisateurs: les façons de contribuer sont nombreuses. Plus discrètes, l’implication de la communauté sur le projet de traduction de PrestaShop a néanmoins [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/prestashop-1-7-contribuez-aux-traductions-du-logiciel/">PrestaShop 1.7 : contribuez aux traductions du logiciel</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Open-source et gratuit, PrestaShop doit beaucoup à sa communauté qui contribue chaque jour à son amélioration. Modification du <a href="https://github.com/PrestaShop/PrestaShop" target="_blank">code source</a>, retours sur <a href="http://forge.prestashop.com/" target="_blank">la Forge</a>, création de <a href="http://addons.prestashop.com/en/" target="_blank">modules</a>, ou encore participation à des tests utilisateurs: les façons de contribuer sont nombreuses. Plus discrètes, l’implication de la communauté sur le <a href="https://crowdin.com/project/prestashop-official" target="_blank">projet de traduction de PrestaShop</a> a néanmoins permis de rendre le logiciel disponible dans près de 65 langues, offrant aux marchands du monde entier la possibilité de lancer leur boutique gratuitement, et dans leur propre langue.<span id="more-20951"></span></p>
+<p>Avec l’arrivée de la <a href="https://www.prestashop.com/1.7" target="_blank">version 1.7</a> et ses nouveautés, de nouveaux contenus ont été rendus disponibles à la traduction. Plus que jamais, la mobilisation de la communauté est essentielle.</p>
+<h2 style="color:#251b5b;">Traduire PrestaShop</h2>
+<p>Notre projet de traduction permet de traduire tout le logiciel PrestaShop en plus de 80 langues. Dans un esprit tout à fait open source, quiconque veut aider y est le bienvenu. Certaines langues sont en cours de traduction, d’autres sont déjà finies (mais des améliorations peuvent toujours être apportées), tandis que certaines langues sont encore balbutiantes.</p>
+<p>Vous aussi souhaitez rejoindre la communauté de traducteurs ? C’est très simple :</p>
+<ul>
+<li>Créez un compte sur <a href="https://crowdin.com/project/prestashop-official" target="_blank">Crowdin</a>.</li>
+<li>Faites une demande pour accéder au projet de la langue dans laquelle vous souhaitez traduire PrestaShop.</li>
+<li>Participez à la traduction du logiciel, depuis l’anglais.</li>
+</ul>
+<p>Vous trouverez plus d’informations directement sur <a href="https://crowdin.com/project/prestashop-official" target="_blank">la page de notre projet de traduction</a> (en anglais).<br />
+<img src="https://www.prestashop.com/blog/fr/files/2016/12/translator.jpg" alt="PrestaShop 1.7 : contribuez aux traductions du logiciel " width="339" height="285" class="aligncenter size-full wp-image-20952" /></p>
+<h2 style="color:#251b5b;">Remercier la communauté de traducteurs</h2>
+<p>Depuis le lancement du projet de traduction sur Crowdin en 2014, <strong>plus de 1100 traducteurs ont traduit près de 3 millions de mots dans 72 langues</strong>, c’est énorme !</p>
+<p>Pour mettre en avant le travail des traducteurs et les remercier, nous avons récemment mis en ligne un site à leur honneur. Vous y découvrirez les plus gros contributeurs en traduction depuis le lancement de la 1.7, et vous pourrez suivre l’avancement des langues en cours de traduction :</p>
+<div class="text-center"><a class="btn" style="background-color: #df0067;border: 1px solid #df0067;border-bottom: 3px solid #df0067;margin: 10px 0 20px;color: #fff" href="http://translators.prestashop.com/" target="_blank">Rencontrez les traducteurs de PrestaShop</a></div>
+<p>Si vous souhaitez participer à la traduction de PrestaShop et voulez en savoir plus, vous pouvez consulter le <a href="http://build.prestashop.com/assets/ext/PrestaShop_Translator_Guide.pdf" target="_blank">guide du traducteur</a> (en anglais), ou bien nous contacter à l’adresse <a href="mailto:translation@prestashop.com">translation@prestashop.com</a> <img src="https://www.prestashop.com/blog/fr/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> </p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/prestashop-1-7-contribuez-aux-traductions-du-logiciel/">PrestaShop 1.7 : contribuez aux traductions du logiciel</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/prestashop-1-7-contribuez-aux-traductions-du-logiciel/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Comment devenir leader de son marché de niche ? Interview de Skylantern</title>
+		<link>https://www.prestashop.com/blog/fr/comment-devenir-leader-marche-niche-interview-skylantern/</link>
+		<comments>https://www.prestashop.com/blog/fr/comment-devenir-leader-marche-niche-interview-skylantern/#comments</comments>
+		<pubDate>Tue, 20 Dec 2016 10:32:19 +0000</pubDate>
+		<dc:creator><![CDATA[mvalenza]]></dc:creator>
+				<category><![CDATA[Success Story]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=20941</guid>
+		<description><![CDATA[<p>Développer son activité, va bien souvent de pair avec le développement de son offre sur de nouveaux marchés, ou d’un positionnement stratégique sur un marché de niche au-delà des frontières. La deuxième option a été le choix pris par l’e-commerçant Skylantern ! Après un travail en profondeur sur l’offre et le SEO de la boutique [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/comment-devenir-leader-marche-niche-interview-skylantern/">Comment devenir leader de son marché de niche ? Interview de Skylantern</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Développer son activité, va bien souvent de pair avec le développement de son offre sur de nouveaux marchés, ou d’un positionnement stratégique sur un marché de niche au-delà des frontières.<span id="more-20941"></span></p>
+<p>La deuxième option a été le choix pris par l’e-commerçant Skylantern ! Après un travail en profondeur sur l’offre et le SEO de la boutique en ligne, il se positionne comme N°1 du marché de la lanterne sur Internet, et cela depuis 2007 !</p>
+<p>Experts de leurs produits à des prix concurrentiels, ils touchent une large cible de particuliers et de professionnels, en France et à l’International.</p>
+<p>Dans cette vidéo, Benjamin Hamon, Fondateur et CEO de Skylantern, vous donne les clés de sa réussite ainsi que de précieux conseils, pour que vous aussi puissiez percer sur votre marché de niche.</p>
+<div class="g-ytsubscribe col-centered text-center" data-channelid="UCqDSbqSbkboMBARlYrhNa7g" data-layout="full" data-count="default"></div>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/cOAcp8uUQQU?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<div class="text-center"><a class="btn" style="background-color: #cd201f;border: 1px solid #b31217;border-bottom: 3px solid #b31217;margin: 20px 0 0;color: #fff" href="https://www.youtube.com/user/prestashop?utm_source=blog&amp;utm_medium=article&amp;utm_campaign=youtube&amp;utm_content=skylantern">Voir plus de vidéo</a></div>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/comment-devenir-leader-marche-niche-interview-skylantern/">Comment devenir leader de son marché de niche ? Interview de Skylantern</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/comment-devenir-leader-marche-niche-interview-skylantern/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>7 méthodes à suivre pour un marketing réussi après Noël</title>
+		<link>https://www.prestashop.com/blog/fr/7-methodes-suivre-marketing-reussi-apres-noel/</link>
+		<comments>https://www.prestashop.com/blog/fr/7-methodes-suivre-marketing-reussi-apres-noel/#comments</comments>
+		<pubDate>Mon, 19 Dec 2016 19:06:29 +0000</pubDate>
+		<dc:creator><![CDATA[Les amis de Preston]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=20946</guid>
+		<description><![CDATA[<p>L&#8217;un des principaux défis des e-commerçants après les fêtes consiste à faire revenir les clients, qui ont tendance à déserter le marché. Les clients ont été bombardés de soldes, de remises et d&#8217;offres depuis le Black Friday. Comment les spécialistes du marketing peuvent-ils les séduire à nouveau dans cette période de baisse des ventes après [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/7-methodes-suivre-marketing-reussi-apres-noel/">7 méthodes à suivre pour un marketing réussi après Noël</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>L&rsquo;un des principaux défis des e-commerçants après les fêtes consiste à faire revenir les clients, qui ont tendance à déserter le marché. Les clients ont été bombardés de soldes, de remises et d&rsquo;offres depuis le Black Friday. Comment les spécialistes du marketing peuvent-ils les séduire à nouveau dans cette période de baisse des ventes après Noël ?</p>
+<p>Pour attirer les clients sur votre site et éviter que vos ventes ne dégringolent, vous pouvez offrir à vos clients des perspectives inédites pour la nouvelle année, les encourager à s&rsquo;acheter quelque chose ou encore favoriser l&rsquo;adhésion de nouveaux membres à votre programme de fidélité, avec des offres ciblées et diverses autres stratégies.</p>
+<p>Voici quelques propositions pour booster les performances de votre activité en début d&rsquo;année :<span id="more-20946"></span></p>
+<h2 style="color: #cf763a;">1. Proposez des soldes monstres sur les stocks restants</h2>
+<p>Certains clients vivent pour les soldes du début d&rsquo;année. Et même ceux qui n&rsquo;ont pas l&rsquo;habitude d&rsquo;y participer peuvent se laisser tenter par une bonne affaire.</p>
+<p>Il s&rsquo;agit par ailleurs d&rsquo;un excellent moyen de se débarrasser de tous les produits périssables ou éphémères, comme les denrées alimentaires, phénomènes de mode et autres articles estampillés 2016. Le fait de proposer des remises importantes contribue à générer du trafic sur votre site afin de vous débarrasser de vos stocks. De plus, les clients peuvent profiter de leur passage pour acheter d&rsquo;autres articles.</p>
+<h2 style="color: #cf763a;">2. Invitez les clients à se faire plaisir</h2>
+<p>Si tout le monde apprécie généralement les fêtes, il s&rsquo;agit aussi d&rsquo;une période très stressante, entre la préparation, la cuisine, le nettoyage, les achats, les trajets, la gestion de la famille, etc.</p>
+<p>À Noël, on donne beaucoup aux autres. Ainsi, une fois les fêtes terminées, vos clients auront peut-être besoin de s&rsquo;occuper un peu d&rsquo;eux-mêmes.</p>
+<p>Saisissez cette opportunité et adressez-vous aux clients qui ont envie de se gâter sans culpabiliser.</p>
+<h2 style="color: #cf763a;">3. Mettez l&rsquo;accent sur la nouvelle année</h2>
+<p>Le 1<sup>er</sup> janvier, l&rsquo;épicurisme qui caractérise les fêtes laisse soudain place à la modération, voire à l&rsquo;austérité. Arrêter de boire et de fumer, perdre du poids ou encore avoir une alimentation plus saine font partie des résolutions les plus courantes chaque année.</p>
+<p>Dans ce cadre, les publicités <a href="https://blog.kissmetrics.com/after-the-holiday-spike/" target="_blank">proposant d&rsquo;aider les clients à tenir leurs résolutions de début d&rsquo;année</a> peuvent donner des résultats intéressants. Les messages parlant de santé, de perspectives positives et de projets pour l&rsquo;avenir, ou évoquant des idées de renouveau et de changement, font écho à ces résolutions.</p>
+<h2 style="color: #cf763a;">4. Utilisez l&rsquo;historique des achats de fin d&rsquo;année de vos clients</h2>
+<p>Cette approche peut s&rsquo;avérer délicate. En effet, les clients ont souvent acheté des cadeaux pour leurs proches dans les mois précédant les fêtes. Vous devez donc faire en sorte que les clients puissent partager la remise ou la promotion.</p>
+<p>Ciblez le client qui a acheté le produit, mais indiquez-lui clairement que quelqu&rsquo;un d&rsquo;autre peut utiliser la remise. Par exemple, si un client a acheté une machine à café Keurig avant les fêtes, envoyez-lui une remise sur des articles associés, comme des capsules de café, des tasses, des sous-verres ou d&rsquo;autres produits pertinents.</p>
+<p>Encouragez le client à partager la remise avec ses amis. De cette façon, vous parez à toute éventualité, que le cadeau soit pour le client ou pour une autre personne. Cette méthode vous permet en outre de développer votre base de clients si le destinataire partage la promotion.</p>
+<h2 style="color: #cf763a;">5. Réalisez un sondage</h2>
+<p>Commencez l&rsquo;année en communiquant directement avec vos clients par l&rsquo;intermédiaire d&rsquo;un sondage. Les sondages constituent un très bon moyen de faire participer votre base de clients. Ils ont plusieurs avantages :</p>
+<ul>
+<li>Ils permettent à vos clients de penser à votre marque.</li>
+<li>Ils donnent aux clients l&rsquo;occasion d&rsquo;exprimer leurs avis positifs ou négatifs.</li>
+<li>Ils mettent en évidence les points que vous devez améliorer.</li>
+</ul>
+<p>Grâce aux sondages, vous pouvez recueillir des informations précieuses, comme les articles que les clients envisagent d&rsquo;acheter cette année, la priorité des clients entre le prix ou la qualité, la mesure dans laquelle les clients sont satisfaits de vos services, leur mode de communication préféré pour recevoir des messages (réseaux sociaux, SMS ou e-mail) et de nombreuses autres données.</p>
+<h2 style="color: #cf763a;">6. Envoyez des SMS à vos clients</h2>
+<p>Si vous avez mené une grande campagne d&rsquo;inscription aux SMS pour les fêtes, c&rsquo;est le moment d&rsquo;en récolter les fruits. Et si vous n&rsquo;avez pas encore effectué d&rsquo;opération de ce type, c&rsquo;est peut-être l&rsquo;occasion de vous y mettre.</p>
+<p>Ne délaissez pas vos clients une fois les fêtes terminées. Au lieu de cela, <a href="https://www.textmagic.com/blog/brands-use-sms-texting-in-business/" target="_blank">renforcez votre relation avec eux grâce à ces quelques idées de marketing par SMS</a> :</p>
+<ul>
+<li><em>Messages personnalisés.</em> Donnez à vos messages un ton personnel en utilisant le nom de vos clients. Appuyez-vous sur les préférences d&rsquo;achat de vos clients pour envoyer des promotions sur des articles qui sont susceptibles de les intéresser.</li>
+<li><em>Remises exclusives pour les membres du programme de fidélité SMS.</em> Réservez vos promotions aux clients SMS afin de leur faire prendre conscience des avantages liés à leur inscription et de les motiver pour qu&rsquo;ils restent inscrits.</li>
+<li><em>Conseils utiles.</em> Donnez à vos clients des conseils pour prendre soin d&rsquo;un produit qu&rsquo;ils ont acheté.</li>
+<li><em>Service client.</em> Informez vos clients que vous avez reçu un article renvoyé et faites-leur parvenir une confirmation du montant crédité par SMS. S&rsquo;ils ont commandé un nouveau produit, tenez-les au courant du statut d&rsquo;expédition avec un SMS.</li>
+</ul>
+<h2 style="color: #cf763a;">7. Appuyez-vous sur les réseaux sociaux</h2>
+<p>Les réseaux sociaux fonctionnent comme une plate-forme marketing à tout moment de l&rsquo;année, y compris après les fêtes. Utilisez des photos et des vidéos pour promouvoir des remises et de nouveaux produits. <a href="http://www.socialmediaexaminer.com/17-tips-for-successful-facebook-contests/" target="_blank">Organiser des concours sur les réseaux sociaux</a> est un bon moyen d&rsquo;inciter les gens à consulter votre site. La plupart des détaillants proposent des concours avant les fêtes.</p>
+<p>Oubliez les conventions et prévoyez un concours après les fêtes. Vous pouvez par exemple inviter les personnes à publier leurs bonnes résolutions pour participer à un tirage au sort.</p>
+<p>Avez-vous déjà employé certaines de ces astuces marketing après les fêtes ? Vous avez peut-être vos propres astuces ? Partagez-les avec nous dans un commentaire !</p>
+<p><em>Spécialiste en service client et éditrice de contenus pour <a href="https://www.textmagic.com/" target="_blank">TextMagic</a>, Alexa Lemzy rédige des articles sur les bonnes pratiques marketing et les stratégies de service client pour les petites entreprises et les e-commerçants. N’hésitez pas à la contacter <a href="https://twitter.com/Alexa_Lemzy" target="_blank">@Alexa_Lemzy</a>.</em></p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/7-methodes-suivre-marketing-reussi-apres-noel/">7 méthodes à suivre pour un marketing réussi après Noël</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/7-methodes-suivre-marketing-reussi-apres-noel/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

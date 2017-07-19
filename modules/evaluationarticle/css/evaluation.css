@@ -1,0 +1,49 @@
+.rating-total a{
+	float:right;
+}
+
+.rating-nombre {
+	font-size:25px !important;
+	margin-left:10px;
+	color:gold;
+	position:relative;
+}
+
+.rating-value {
+	margin-left:15px;
+}
+
+.progress-label-left {
+    margin-right: 1em;
+}
+.progress-label-right {
+    margin-right: 1em;
+}
+
+.vote{
+	width:80% !important;
+}
+
+.progress {
+    margin-bottom: 0 !important;
+}
+
+.label-gauche{
+	width:25%;
+}
+
+.progress-cell{
+	width:70%;
+}
+
+.label-droite{
+	width:5%;
+}
+
+.section{
+	margin:10px;
+	font-size:1.3em;
+	font-weight:bold;
+	color:#000;
+	margin-left:0px;
+}

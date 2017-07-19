@@ -1,0 +1,8 @@
+*ERROR* 	2017/01/23 - 14:59:45: Erreur de syntaxe près de '' à la ligne 1<br /><br /><pre>
+            SELECT * FROM `ps_evaluationarticle` WHERE id_product=1 AND id_customer=;</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2017/01/23 - 15:05:07: Erreur de syntaxe près de '' à la ligne 1<br /><br /><pre>
+            SELECT * FROM `ps_evaluationarticle` WHERE id_product=1 AND id_customer=;</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2017/01/23 - 15:23:07: La table 'mshop.'._db_prefix_.'evaluationarticle' n'existe pas<br /><br /><pre>
+                SELECT * FROM `'._DB_PREFIX_.'evaluationarticle` WHERE id_product='.$product_id.' AND id_customer=NULL;</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2017/01/23 - 15:23:54: La table 'mshop.'._db_prefix_.'evaluationarticle' n'existe pas<br /><br /><pre>
+                SELECT * FROM `'._DB_PREFIX_.'evaluationarticle` WHERE id_product='.$product_id.';</pre> at line 791 in file classes/db/Db.php
